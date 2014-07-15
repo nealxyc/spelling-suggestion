@@ -1,8 +1,8 @@
 '''
 @author: nealx
 '''
-from src.spellsug.wordDict import WordDict
-from src.spellsug.wordDict import SearchNode
+from src.spellsug.word_dict import WordDict
+from src.spellsug.word_dict import SearchNode
 
 
 if __name__ == '__main__':
